@@ -1,5 +1,5 @@
-# MNIST 数据集
-data/
+# MNIST 数据集（项目1自动下载的，不上传）
+project1-mnist-web/backend/data/
 
 # Python
 __pycache__/

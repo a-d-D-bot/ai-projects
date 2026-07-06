@@ -1,0 +1,12 @@
+# LLaMA-Factory 框架（通过 git clone 单独获取）
+LLaMA-Factory/
+
+# 模型权重
+models/
+
+# 训练产物
+saves/
+
+# Python
+__pycache__/
+*.pyc
